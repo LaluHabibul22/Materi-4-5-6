@@ -29,7 +29,3 @@
               Menghapus pasangan kunci-nilai
               del person["city"]
 
-E.	Daftar Pustaka
-	Buku "Python Programming: An Introduction to Computer Science" oleh John Zelle
-Buku "Learning Python" oleh Mark Lutz
-buku "Python Crash Course" oleh Eric Matthes
